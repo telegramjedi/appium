@@ -1,0 +1,17 @@
+{
+
+"deviceName": "12455555555555",
+
+"autoAcceptAlerts": "true",
+
+"udid": "12455555555555",
+
+"appPackage": "com.google.android.calculator",
+
+"automationName": "UiAutomator1",
+
+"platformName": "Android",
+
+"appActivity": "com.android.calculator2.Calculator"
+
+}
